@@ -1,8 +1,7 @@
 const BASE_URL = import.meta.env.BASE_URL?.replace(/\/$/, '') || '';
 // export const API_BASE = `http://localhost:5000/api`;
 //export const API_BASE = `https://internship-job-portal-app-baackend.onrender.com`;
-export const API_BASE = `https://internship-job-porta-backend.onrender.com`;
-
+export const API_BASE = `https://internship-job-porta-backend.onrender.com/api`;
 
 
 
